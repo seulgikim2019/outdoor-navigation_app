@@ -18,19 +18,13 @@
 스크린샷
 ---------
 <div>
-<img src="https://user-images.githubusercontent.com/67361330/85651665-a167fe80-b6e3-11ea-95b6-564c50303149.png" width="100%"></img>
-<img src="https://user-images.githubusercontent.com/67361330/85651700-bba1dc80-b6e3-11ea-8d66-9599e2972873.png" width="100%"></img>
-<img src="https://user-images.githubusercontent.com/67361330/85651710-bfcdfa00-b6e3-11ea-9208-c58e64fed179.png" width="100%"></img>
-<img src="https://user-images.githubusercontent.com/67361330/85651713-c492ae00-b6e3-11ea-83a3-61e7702561b3.png" width="100%"></img>
-<img src="https://user-images.githubusercontent.com/67361330/85651720-c8263500-b6e3-11ea-89ce-3a6431c9dc7a.png" width="100%"></img>
-<img src="https://user-images.githubusercontent.com/67361330/85651731-ce1c1600-b6e3-11ea-8d64-09d21c7ba33f.png" width="100%"></img>
-<img src="https://user-images.githubusercontent.com/67361330/85651737-d07e7000-b6e3-11ea-952c-e849c1a34bf8.png" width="100%"></img>
+<img src="https://user-images.githubusercontent.com/67361330/85957392-02375580-b9c8-11ea-986f-6a3cb329d04c.pngg" width="100%"></img>
 </div>
 
 
 영상링크
 --------
-https://youtu.be/yiqQE0VnyhI
+
 
 
 
