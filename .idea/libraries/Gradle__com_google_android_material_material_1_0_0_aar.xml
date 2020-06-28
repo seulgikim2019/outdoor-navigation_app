@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.material:material:1.0.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/Downloads/sensor-fusion-demo-master/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/b3d012d2b9fa60435a9c5733cebcb07c/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/sensor-fusion-demo-master/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/b3d012d2b9fa60435a9c5733cebcb07c/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/sensor-fusion-demo-master/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/b3d012d2b9fa60435a9c5733cebcb07c/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

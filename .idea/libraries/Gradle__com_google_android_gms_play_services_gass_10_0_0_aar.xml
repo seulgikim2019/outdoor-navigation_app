@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-gass:10.0.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../sensor-fusion-demo-master/.gradle/caches/transforms-1/files-1.1/jetified-play-services-gass-10.0.0.aar/fa3c34a2492ff30d633f3f39da2ac5e4/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../sensor-fusion-demo-master/.gradle/caches/transforms-1/files-1.1/jetified-play-services-gass-10.0.0.aar/fa3c34a2492ff30d633f3f39da2ac5e4/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.jakewharton.timber:timber:4.7.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/sensor-fusion-demo-master/.gradle/caches/transforms-1/files-1.1/jetified-timber-4.7.1.aar/335a24b5c39e2eb3a187bcee97e74874/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/sensor-fusion-demo-master/.gradle/caches/transforms-1/files-1.1/jetified-timber-4.7.1.aar/335a24b5c39e2eb3a187bcee97e74874/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/sensor-fusion-demo-master/.gradle/caches/modules-2/files-2.1/com.jakewharton.timber/timber/4.7.1/8426e1daf26a6f9adef55a150f3d3ee944da39d/timber-4.7.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

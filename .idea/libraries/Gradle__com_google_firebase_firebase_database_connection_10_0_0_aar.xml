@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-database-connection:10.0.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../sensor-fusion-demo-master/.gradle/caches/transforms-1/files-1.1/jetified-firebase-database-connection-10.0.0.aar/04b5b73736ff8f2348dfec382cc423dc/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../sensor-fusion-demo-master/.gradle/caches/transforms-1/files-1.1/jetified-firebase-database-connection-10.0.0.aar/04b5b73736ff8f2348dfec382cc423dc/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

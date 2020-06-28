@@ -1,0 +1,66 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion rootProject.compileSdkVersion
+
+    defaultConfig {
+        applicationId "com.mahc.custombottomsheet"
+        minSdkVersion rootProject.minSdkVersion
+        targetSdkVersion rootProject.targetSdkVersion
+        versionCode 1
+        versionName "1.0"
+        multiDexEnabled true
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+
+    implementation "androidx.appcompat:appcompat:$rootProject.ext.supportVersion"
+    implementation 'androidx.constraintlayout:constraintlayout:1.1.2'
+    testImplementation 'junit:junit:4.12'
+    androidTestImplementation 'androidx.test:runner:1.1.0-alpha4'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.1.0-alpha4'
+
+    implementation "com.google.android.material:material:$rootProject.ext.supportVersion"
+
+    //implementation project(':googlemaps-like')
+    implementation "com.mahc.custombottomsheetbehavior:googlemaps-like:$rootProject.ext.bottomSheetVersion"
+    implementation 'com.google.android.gms:play-services-maps:17.0.0'
+    implementation 'com.google.android.libraries.places:places-compat:2.2.0'
+    implementation 'com.google.maps.android:android-maps-utils:0.5'
+
+    implementation 'com.amitshekhar.android:android-networking:1.0.2'
+
+    // okHttp 라이브러리
+    implementation 'com.squareup.okhttp3:okhttp:4.2.0'
+
+    // 구글 위치정보 관련 퍼미션 - 덱스터
+    implementation 'com.karumi:dexter:5.0.0'
+
+    //MapBox
+    implementation 'com.mapbox.mapboxsdk:mapbox-android-sdk:6.8.1'
+    implementation 'com.mapbox.mapboxsdk:mapbox-android-navigation:0.26.0'
+    implementation 'com.mapbox.mapboxsdk:mapbox-android-navigation-ui:0.26.0'
+
+    // Butter knife
+    implementation 'com.jakewharton:butterknife:10.0.0'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:10.0.0'
+
+    // Gson
+    implementation 'com.google.code.gson:gson:2.8.5'
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+}

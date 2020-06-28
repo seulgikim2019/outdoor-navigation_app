@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OutdoorMap</string>
+    <string name="no_route">경로를 찾지 못했습니다.</string>
+    <string name="from_location">출발지</string>
+    <string name="to_location">목적지</string>
+    <string name="google_api_key">api key</string>
+    <string name="access_token" translatable="false">access token</string>
+
+</resources>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:weightSum="5"
+    android:layout_margin="10dp"
+    android:background="@drawable/border"
+    >
+
+ <LinearLayout
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:orientation="horizontal">
+
+    <TextView
+        android:textColor="#000000"
+        android:textSize="25dp"
+        android:layout_weight="0.5"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:id="@+id/route_number"
+        android:visibility="visible"
+        android:layout_width="30sp"
+        android:layout_height="match_parent"
+        android:text="1" />
+
+
+
+        <TextView
+            android:layout_weight="4.5"
+            android:id="@+id/route_detail"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="길안내"
+            android:textColor="#000000"
+            android:textSize="25dp"
+            android:visibility="visible" />
+
+
+
+</LinearLayout>
+
+    <View
+        android:id="@+id/view_view"
+        android:visibility="visible"
+        android:layout_width="match_parent"
+        android:layout_height=".15dp"
+        android:background="#555" />
+
+
+    <TextView
+        android:layout_weight="4.5"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:id="@+id/route_dd"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="거리(소요시간)"
+        android:textColor="#000000"
+        android:textSize="25dp"
+        android:visibility="visible" />
+
+
+</LinearLayout>

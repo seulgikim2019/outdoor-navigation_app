@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.0.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../sensor-fusion-demo-master/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/a231f9c9cc17ff5503f88b434246b5fb/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../sensor-fusion-demo-master/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/a231f9c9cc17ff5503f88b434246b5fb/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../sensor-fusion-demo-master/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-viewmodel/2.0.0/41b56105d14b1151a963444875cab191271f43db/lifecycle-viewmodel-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

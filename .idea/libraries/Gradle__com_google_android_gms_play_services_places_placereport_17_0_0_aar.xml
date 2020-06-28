@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-places-placereport:17.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/sensor-fusion-demo-master/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-17.0.0.aar/d5647a9f93acba22dd5aaf2daed634fb/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/sensor-fusion-demo-master/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-17.0.0.aar/d5647a9f93acba22dd5aaf2daed634fb/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.libraries.places:places-compat:2.2.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/sensor-fusion-demo-master/.gradle/caches/transforms-1/files-1.1/places-compat-2.2.0.aar/2f6ffdd44aa90b6603ce89b246d1e567/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/sensor-fusion-demo-master/.gradle/caches/transforms-1/files-1.1/places-compat-2.2.0.aar/2f6ffdd44aa90b6603ce89b246d1e567/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/sensor-fusion-demo-master/.gradle/caches/modules-2/files-2.1/com.google.android.libraries.places/places-compat/2.2.0/34b9edfff3b20573c74b94182511045221e95af2/places-compat-2.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

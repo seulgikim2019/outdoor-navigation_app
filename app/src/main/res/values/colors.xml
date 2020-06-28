@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <color name="colorPrimary">#85E189</color>
+        <color name="colorPrimaryDark">#85E2</color>
+        <color name="colorAccent">#FF4081</color>
+        <color name="color_text">#495459</color>
+        <color name="BLACK">#000000</color>
+        <color name="WHITE">#ffffff</color>
+        <color name="colorWhiteOpacity0">#00FFFFFF</color>
+        <color name="colorWhiteOpacity10">#1AFFFFFF</color>
+        <color name="colorWhiteOpacity25">#40FFFFFF</color>
+        <color name="colorWhiteOpacity50">#80FFFFFF</color>
+        <color name="colorWhiteOpacity90">#E6FFFFFF</color>
+        <color name="colorWhite">#FFFFFF</color>
+        <color name="colorWhiteGrey">#F8F8F8</color>
+        <color name="colorBlackOpacity0">#00000000</color>
+        <color name="colorBlackOpacity10">#1A000000</color>
+        <color name="colorBlackOpacity25">#40000000</color>
+        <color name="colorBlackOpacity50">#80000000</color>
+        <color name="colorBlackOpacity90">#E6000000</color>
+        <color name="colorBlack">#000000</color>
+
+        <color name="colorTextGreen">#2ECC71</color>
+
+        <!-- 메인 텍스트 컬러 -->
+        <color name="colorMainGreen">#85E189</color>
+
+        <!-- 메인 컬러 -->
+        <color name="colorTextGrey">#B4B4B4</color>
+
+        <!--투명-->
+        <color name="colorTransparent">#00000000</color>
+</resources>

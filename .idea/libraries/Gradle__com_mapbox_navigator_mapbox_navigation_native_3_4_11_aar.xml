@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mapbox.navigator:mapbox-navigation-native:3.4.11@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/sensor-fusion-demo-master/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-navigation-native-3.4.11.aar/9ee2b9114f558dedfd17f1d3d20ca7fd/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/sensor-fusion-demo-master/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-navigation-native-3.4.11.aar/9ee2b9114f558dedfd17f1d3d20ca7fd/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
