@@ -24,7 +24,7 @@
 
 영상링크
 --------
-
+https://youtu.be/N8m_iwiwzy0
 
 
 
