@@ -18,7 +18,7 @@
 스크린샷
 ---------
 <div>
-<img src="https://user-images.githubusercontent.com/67361330/85957392-02375580-b9c8-11ea-986f-6a3cb329d04c.pngg" width="100%"></img>
+<img src="https://user-images.githubusercontent.com/67361330/85957392-02375580-b9c8-11ea-986f-6a3cb329d04c.png" width="100%"></img>
 </div>
 
 
